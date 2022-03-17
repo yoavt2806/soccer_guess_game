@@ -1,3 +1,19 @@
+## Setup
+
+This project was created with React's Create React App scripts. To
+install the dependencies, please run:
+
+```
+yarn install
+```
+
+The development server can then be run via:
+
+```
+yarn start
+```
+
+
 # Game Instructions:
 
 1. The user has five chances in order to guess the right player (in each session, we choose a random one).
