@@ -2,7 +2,6 @@ import './App.css';
 import {MAX_NUMBER_OF_GUESSES} from "./constants/constants";
 import {AutoComplete} from "./components/AutoComplete";
 
-
 function App() {
 
   const renderContent = () => {
