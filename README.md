@@ -1,3 +1,13 @@
+## Task Description
+create a guessing game of football flayers.
+the goal of the task if to test some React and JS fundementals:
+1. getting data from async call.
+2. state managment
+3. css fundementals
+4. components structure
+5. Arrays manipulations
+6. Using an existing component
+
 ## Setup
 
 This project was created with React's Create React App scripts. To
