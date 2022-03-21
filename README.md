@@ -8,6 +8,9 @@ the goal of the task is to test some React and JS fundementals:
 5. Arrays manipulations
 6. Using an existing component of external library
 
+## Level
+The task requires intermediate-level knowledge of React
+
 ## Setup
 
 This project was created with React's Create React App scripts. To
