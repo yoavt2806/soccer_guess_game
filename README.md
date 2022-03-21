@@ -4,9 +4,9 @@ the goal of the task is to test some React and JS fundementals:
 1. getting data from async call.
 2. state managment
 3. css fundementals
-4. components structure
+4. components structure and code arrangment
 5. Arrays manipulations
-6. Using an existing component
+6. Using an existing component of external library
 
 ## Setup
 
