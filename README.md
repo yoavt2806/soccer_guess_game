@@ -27,3 +27,10 @@ yarn start
 # development notes:
 
 1. You can get the players list by calling the async method "window.getPlayers" which returns array of player objects.
+
+# expected result video:
+
+
+
+https://user-images.githubusercontent.com/97841381/159259050-95884612-51ed-4401-be83-6a4a4edebc8a.mov
+
