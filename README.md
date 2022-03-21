@@ -1,6 +1,6 @@
 ## Task Description
 create a guessing game of football flayers.
-the goal of the task if to test some React and JS fundementals:
+the goal of the task is to test some React and JS fundementals:
 1. getting data from async call.
 2. state managment
 3. css fundementals
