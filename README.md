@@ -9,7 +9,6 @@ the goal of the task is to test some React and JS fundementals:
 6. Using an existing component of external library
 
 ## Sub Tasks
-# And what do we want to check in each one.
 We should discuss about the architecture with the candidate first, and see how he wants to build this feature,
 but we might want to use the following order in order to test his skills one after the other:
 1. Devide the screen to header of 200px height and content for the rest of the screen
