@@ -8,6 +8,22 @@ the goal of the task is to test some React and JS fundementals:
 5. Arrays manipulations
 6. Using an existing component of external library
 
+## Sub Tasks
+# And what do we want to check in each one.
+We should discuss about the architecture with the candidate first, and see how he wants to build this feature,
+but we might want to use the following order in order to test his skills one after the other:
+1. Devide the screen to header of 200px height and content for the rest of the screen
+   * check basic CSS knowledge
+3. get the data and store it
+   * An opputionity to discuss about where do we store our state. 
+   * talk about global state and what are the options for it (Resuc Store, Context, props propogation) and the pros and cons.
+5. create the comparison component between the real player and the last guess player
+   * Check if the candidate builds it in a generic way
+6. choose a random player for each game.
+7. Manage the state of the game - Probably a list of guesses.
+   * check if the candidate creates a minimal state without derivative of the data
+   * working with list, talk with the candidate about render lists in React - key prop for list and the reconsalliation process.
+
 ## Level
 The task requires intermediate-level knowledge of React
 
